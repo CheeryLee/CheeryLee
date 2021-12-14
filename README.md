@@ -1,4 +1,7 @@
 ### Alexander Pluzhnikov - @CheeryLee
+[![GitHub page](https://user-images.githubusercontent.com/11297752/146059697-af67c834-205d-4880-a7bc-b803c402126c.png)](https://github.com/CheeryLee)
+[![LinkedIn page](https://user-images.githubusercontent.com/11297752/146059674-50899466-ed71-4920-80b4-a28ca6cf0f78.png)](https://www.linkedin.com/in/cheerylee)
+
 ## 🤓 whoami
 Hi, I'm Alex - an amateur programmer. I support the ideas of open source and write some small things that you can find on repositories tab and use them for free. Nothing serious but a try to make the world a bit better. 🙂
 
