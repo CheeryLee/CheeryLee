@@ -1,7 +1,7 @@
 <h1 align="center">
   Alexander Pluzhnikov - @CheeryLee
   &#8287;
-  <a href="#"><img src="https://media1.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="32px"></a>
+  <a href="#"><img src="https://media1.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="32"></a>
 </h3>
 
 <p align="center">
@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://media2.giphy.com/media/268orexI2vRuu3k4EW/giphy.gif" width="32px"></a>
-    <a href="#"><img alt="Made with love" title="Made with love" height="30px" src="https://img.shields.io/static/v1?label=Made+with&message=Love&color=red&style=for-the-badge"/></a>
+    <a href="#"><img src="https://media2.giphy.com/media/268orexI2vRuu3k4EW/giphy.gif" width="32"></a>
+    <a href="#"><img alt="Made with love" title="Made with love" height="30" src="https://img.shields.io/static/v1?label=Made+with&message=Love&color=red&style=for-the-badge"/></a>
     &#8287;
-    <a href="#"><img alt="Powered by magic" title="Powered by magic" height="30px" src="https://img.shields.io/static/v1?label=Powered+by&message=Magic&color=violet&style=for-the-badge"/></a>
-    <a href="#"><img src="https://media4.giphy.com/media/jU397nUOKJjqNLneYG/giphy.gif" width="32px"></a>
+    <a href="#"><img alt="Powered by magic" title="Powered by magic" height="30" src="https://img.shields.io/static/v1?label=Powered+by&message=Magic&color=violet&style=for-the-badge"/></a>
+    <a href="#"><img src="https://media4.giphy.com/media/jU397nUOKJjqNLneYG/giphy.gif" width="32"></a>
 </p>
 <br/>
 
@@ -104,9 +104,9 @@ Hi, I'm Alex - an amateur programmer. I support the ideas of open source and wri
 
 ## 📊 Stats
 <p align="left">
-    <a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api?username=cheerylee&count_private=true&show_icons=true&theme=ayu-mirage&border_radius=8&border_color=505a66&include_all_commits=true" height="172px"/></a>
+    <a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api?username=cheerylee&count_private=true&show_icons=true&theme=ayu-mirage&border_radius=8&border_color=505a66&include_all_commits=true" height="172"/></a>
     &#8287;
-    <a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerylee&layout=compact&theme=ayu-mirage&border_radius=8&border_color=505a66" height="172px"/></a>
+    <a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerylee&layout=compact&theme=ayu-mirage&border_radius=8&border_color=505a66" height="172"/></a>
     <br/>
     <b>*</b> Most used languages are only applied to my public repositories and don't reflect of the available experience that I have.
 </p>
